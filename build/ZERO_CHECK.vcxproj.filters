@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jallo\OneDrive\Documents\character-plugin-230201904\build\CMakeFiles\b4f2e6f9a96b659cdac5f2a88a7e6e36\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E1548346-0CCE-3294-82E0-14BE0D541E89}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

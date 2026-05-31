@@ -1,0 +1,10 @@
+^C:\USERS\JALLO\ONEDRIVE\DOCUMENTS\CHARACTER-PLUGIN-230201904\BUILD\CMAKEFILES\B4F2E6F9A96B659CDAC5F2A88A7E6E36\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/jallo/OneDrive/Documents/character-plugin-230201904 -BC:/Users/jallo/OneDrive/Documents/character-plugin-230201904/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/jallo/OneDrive/Documents/character-plugin-230201904/build/student_character_plugin.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

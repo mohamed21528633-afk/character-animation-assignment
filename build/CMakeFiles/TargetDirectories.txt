@@ -1,0 +1,3 @@
+C:/Users/jallo/OneDrive/Documents/character-plugin-230201904/build/CMakeFiles/student_character_plugin.dir
+C:/Users/jallo/OneDrive/Documents/character-plugin-230201904/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/jallo/OneDrive/Documents/character-plugin-230201904/build/CMakeFiles/ZERO_CHECK.dir
